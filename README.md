@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanskruti-3
+- 👋 Hi, I’m Sanskruti Tupkar
 - 👀 I’m interested in knowing what I don't know.
 - 🌱 I’m currently learning github.
 - I'm pursuing a Bachelor of Technology in Computer Science and Engineering.
