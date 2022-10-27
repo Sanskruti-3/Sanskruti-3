@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanskruti Tupkar
-- 👀 I’m interested in knowing what I don't know.
-- 🌱 I’m currently learning github.
+- 👀 I’m intrested in problem solving and learning new skills.
+- 🌱 I’m currently learning Android development.
 - I'm pursuing a Bachelor of Technology in Computer Science and Engineering.
 - 📫 How to reach me sanstupkar30@gmail.com
 
